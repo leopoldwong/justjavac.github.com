@@ -21,14 +21,14 @@ GitHub: https://github.com/justjavac
 
 ### Troila (2018 - 2020)
 
-Head of front-end department.
+Leader of front-end department.
 
-Build a front-end infrastructure based on the Node.js technology stack from scratch. The main work achievements are:
+Build a front-end infrastructure based on the Node.js from scratch. The main work achievements are:
 
-- Formed a front-end development team from 2 to more than 20 people
+- Formed a front-end development team from 2 to more than 20 peoples
 - Improved CI / CD process based on gitlab-ci
 - Improved front-end development efficiency by 1.5 times
-- Optimized the first screen interaction time of web pages from 2.4s to 0.63s
+- Optimized page's First Contentful Paint(FCP) Time from 2.4s to 0.63s
 
 ### Tech Echo (2016 - 2018)
 
@@ -54,7 +54,7 @@ Provide software development and implementation services for governments and ent
 
 ## Open Source
 
-- [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
+- [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support.
 - [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - Chrome extension that Sniff web framework and javascript libraries run on browsing website.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin for TypeScript.
 - [json-perf-loader](https://github.com/justjavac/json-perf-loader) - A loader for webpack to load JSON with performance advice.
